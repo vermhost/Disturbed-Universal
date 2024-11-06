@@ -3,7 +3,10 @@ This is a roblox script which is currently in FREE mode,
 A whitelist only costs 348 R$, freemode is remainding on for a few weeks though.
 
 https://www.discord.gg/v7ReWhmKE3 <-- Discord server. <br>
-https://www.roblox.com/catalog/128450134608024/Distribution <-- Whitelist tshirt.
+https://www.roblox.com/catalog/128450134608024/Distribution <-- Whitelist tshirt.<br><br>
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vermhost/Disturbed-Universal/refs/heads/main/script"))()
+
 <br><br><br>
 # Features:
 Alerts whenever someone joins, if game is owned by a group it also shows the rank which the player is in the group to prevent random admins going undetected!
