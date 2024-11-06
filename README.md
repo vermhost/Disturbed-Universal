@@ -1,4 +1,4 @@
-# Disturbed-Universal
+# Disturbed-Universal, Lots of love @8snd
 This is a roblox script which is currently in FREE mode,
 A whitelist only costs 348 R$, freemode is remainding on for a few weeks though.
 
