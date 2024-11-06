@@ -6,7 +6,8 @@ https://www.discord.gg/v7ReWhmKE3 <-- Discord server. <br>
 https://www.roblox.com/catalog/128450134608024/Distribution <-- Whitelist tshirt.
 <br><br><br>
 # Features:
-<h1>Aim</h1>
+Alerts whenever someone joins, if game is owned by a group it also shows the rank which the player is in the group to prevent random admins going undetected!
+<br><h1>Aim</h1>
 **Aiming**<br>
 [⠀] Aimbot<br>
 [⠀] Teamcheck<br>
