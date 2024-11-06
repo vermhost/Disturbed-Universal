@@ -22,14 +22,14 @@ Target in FOV<br><br>
 Head<br>
 Torso<br><br>
 
-(--⠀⠀⠀⠀⠀⠀⠀⠀) Prediction<br>
-(---------⠀⠀) Smoothness<br>
-(--------⠀⠀⠀) Hit Chance<br>
-(------⠀⠀⠀⠀⠀) FOV Size<br><br>
+(---------) Prediction<br>
+(---------) Smoothness<br>
+(---------) Hit Chance<br>
+(---------) FOV Size<br><br>
 
 **Anti-Aim**<br>
 [] Spin<br>
-(--------⠀⠀⠀) Spin Speed<br>
+(---------) Spin Speed<br>
 [Rotation-Axis]<br>
 X<br>
 Y<br>
@@ -47,4 +47,4 @@ Z<br>
 
 <h1>Exploits</h1> (More coming soon!!)<br>
 [⠀] Enable CFrame Fly<br>
-(--------⠀⠀) Fly Speed
+(---------) Fly Speed
