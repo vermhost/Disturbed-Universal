@@ -5,7 +5,7 @@ A whitelist only costs 348 R$, freemode is remainding on for a few weeks though.
 https://www.discord.gg/v7ReWhmKE3 <-- Discord server. <br>
 https://www.roblox.com/catalog/128450134608024/Distribution <-- Whitelist tshirt.<br><br>
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vermhost/Disturbed-Universal/refs/heads/main/script"))()<br>
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vermhost/Disturbed-Universal/refs/heads/main/script.lua"))()<br>
 
 ![Disturbed](https://github.com/vermhost/Disturbed-Universal/blob/main/Disturbed.PNG?raw=true)
 
